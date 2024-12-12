@@ -1,1 +1,9 @@
-
+torch
+einx
+einops
+vector_quantize_pytorch
+x_transformers
+imagen_pytorch
+jaxtyping
+beartype
+torchvision
