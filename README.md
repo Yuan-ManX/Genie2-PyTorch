@@ -1,2 +1,3 @@
-# Genie2-PyTorch
+# Genie2 PyTorch
+
 PyTorch implementation of Genie2
